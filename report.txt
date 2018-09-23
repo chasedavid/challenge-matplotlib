@@ -1,0 +1,10 @@
+Chase Farnsworth
+
+Three observations from the data:
+
+1. The three types of cities seem to cluster very nicely together. There is almost a distinctness between where one begins and the other ends (Fig.2016PyberRideSharingData.png).
+
+2. The fares are higher in rural areas with less drivers, and urban areas having more drives and lower fares. 
+
+3. Urban drivers, incoming and rides as indecated by all three pie charts makes up more than 60% of total observations plotted. 
+
